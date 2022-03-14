@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @neillUCL
+- 👀 I’m interested in Python and OpenFoam.
+- 🌱 I’m currently learning Python.
+- 📫 How to reach me neill.bergamini@uclouvain.be
